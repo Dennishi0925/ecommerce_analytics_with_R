@@ -15,5 +15,6 @@ Thoughts, Articles and Code related to uplift modeling
 ### package and code
 > * grf
 > * tools4uplift
+https://dms.umontreal.ca/~murua/research/UpliftRegression.pdf
 > * Uplift
 > * CARET
