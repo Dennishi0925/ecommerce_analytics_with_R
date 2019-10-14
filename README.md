@@ -1,10 +1,10 @@
-# uplift_modeling_with_R
-Thoughts, Articles and Code related to uplift modeling
+# 
+Thoughts, Articles and Code related to e-commerce
 
-### Thoughts and Methods
-> * Basic thoughts: 
-> * Methods: 
-> * Model Selection: metrics for uplift modeling 
+### Issues
+> * uplift modeling with R
+> * A/B Testing
+> * churning
 
 ### articles
 > * Simple Machine Learning Techniques To Improve Your Marketing Strategy: Demystifying Uplift Models
