@@ -1,4 +1,4 @@
-# 
+# E-commerce Analytics with R
 Thoughts, Articles and Code related to e-commerce
 
 ### Issues
